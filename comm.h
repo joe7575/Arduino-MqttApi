@@ -1,7 +1,10 @@
 /**
+ * COMM - A library for half-duplex, ASCII and block-oriented communication.
+ *
+ *
  * Copyright (c) 2016 Joachim Stolberg. All rights reserved.
  *
- * This file is part of MqttApi for Arduino.
+ * This file is part of MqttApi.
  *
  * MqttApi is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

@@ -1,9 +1,9 @@
 # MqttApi - MQTT for Arduino Devices
 
 MqttApi is an Arduino library to implement a MQTT Client based on an ESP8266-01 module
-acting as a MQTT/WIFI shield. The software on the ESP8266 is based on the excellent
-PubSubClient library from Imroy.
-(See https://github.com/Imroy/pubsubclient)
+acting as a MQTT/WIFI shield. The software on the ESP8266 is based on the 
+PubSubClient library from Nicholas O'Leary.
+(See https://github.com/knolleary/pubsubclient)
 
 
 ## History
