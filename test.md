@@ -6,7 +6,7 @@
 Suspend task execution for one cycle. The task will be resumed with the next
 call of the loop function.
 
-
+<br>
 ##### Syntax/Example
 
 ```C++
@@ -23,7 +23,7 @@ MOS_Break(tcb);
 ##### Returns
 none
 
-
+<br>
 ##### See also
 -
 
@@ -33,7 +33,7 @@ none
 
 Continue the task execution at the previous suspended program position.
 
-
+<br>
 ##### Syntax/Example
 
 ```C++
@@ -50,6 +50,6 @@ MOS_Continue(tcb);
 ##### Returns
 none
 
-
+<br>
 ##### See also
 MOS_Break()
