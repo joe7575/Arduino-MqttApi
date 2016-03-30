@@ -14,7 +14,7 @@ MOS_Break(tcb);
 
 ##### Parameters
 
-| Parameter | Description |
+| Parameter |Description  |
 |-----------|------------ |
 | tcb | Task control block, passed to the task as first parameter (PTCB) |
 
@@ -38,7 +38,7 @@ MOS_Continue(tcb);
 
 ##### Parameters
 
-| Parameter | Description |
+| Parameter |Description  |
 |-----------|------------ |
 | tcb | Task control block, passed to the task as first parameter (PTCB) |
 
