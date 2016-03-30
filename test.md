@@ -19,13 +19,14 @@ MOS_Break(tcb);
 |-----------|------------ |
 | tcb | Task control block, passed to the task as first parameter (PTCB) |
 
-
+<br>
 ##### Returns
 none
 
 <br>
 ##### See also
 -
+------------------------------------------------
 
 ### MOS_Continue()
 
@@ -46,10 +47,11 @@ MOS_Continue(tcb);
 |-----------|------------ |
 | tcb | Task control block, passed to the task as first parameter (PTCB) |
 
-
+<br>
 ##### Returns
 none
 
 <br>
 ##### See also
 MOS_Break()
+------------------------------------------------
