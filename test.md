@@ -1,7 +1,7 @@
 
 ### MOS_Break()
 
-##### Description
+##### <span style="color:#FFA500">Description</span>
 
 Suspend task execution for one cycle. The task will be resumed with the next
 call of the loop function.
@@ -31,7 +31,7 @@ none
 
 ### MOS_Continue()
 
-##### Description
+##### <span style="color:#FFA500">Description</span>
 
 Continue the task execution at the previous suspended program position.
 
