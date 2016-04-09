@@ -48,6 +48,7 @@ into the Arduino 'libraries' folder.
 
 ## Hints
 - This API is not finished. Changes on the API are not planned but could occur.
+- You can't use the '|' character inside your topic or payload, because it is used as separator tag inside the message packages
 - The documentation is far away from complete. You have to have experiences with MQTT
 - I used a Raspery Pi as MQTT broker and additional Python scripts on the PC to simulate other devices
 
